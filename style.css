@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    background-color: #147c66;
+}
+
+.container {
+    margin: 20px;
+}
+
+img[data-testid="slackDisplayImage"] {
+    max-width: 100%;
+    height: auto;
+}
+
